@@ -9,9 +9,9 @@ My intention was to have the player feel more immersed in the experience, as the
 
 ## Screenshots
 
-![pistol] (https://imgur.com/YB2gNOj.png)
-![rifle] (https://imgur.com/1spi8lQ.png)
-![shotgun] (https://imgur.com/94a2zjE.png)
+(https://i.imgur.com/YB2gNOj.png)
+(https://i.imgur.com/1spi8lQ.png)
+(https://i.imgur.com/94a2zjE.png)
 
 ## See video demonstrations below!
 
