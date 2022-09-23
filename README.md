@@ -7,6 +7,10 @@ I wanted the player to use the mouse wheel to add as way to interact with the we
 
 My intention was to have the player feel more immersed in the experience, as they have a high level of control over the weapons, as they are forced to reload and cock the weapons manually in a series of input as opposed to 1 button press for each.
 
-NOTE: THIS IS ONLY THE SCRIPTS AND IS MOSTLY AN EXAMPLE OF WORK I HAVE DONE.
+## See video demonstrations below!
 
-I WILL TRY TO UPLOAD THE ACTUAL DEMO AT SOME POINT, SO YM RAMBLINGS HERE MAKE MORE SENSE.
+https://www.youtube.com/watch?v=SUa9lXApTfo
+
+https://www.youtube.com/watch?v=V-vPJsn6SiU
+
+https://www.youtube.com/watch?v=Pi-TBkeGGq0
